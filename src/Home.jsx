@@ -15,7 +15,7 @@ function Home(props){
             <div className="product">
                 <h1>PS5 Pro</h1>
                 <h2>Rs. 54,000.00</h2>
-                <button onClick={() => props.update("PS5")}>Add to Cart</button>
+                <button onClick={() => props.update("PS5 Pro")}>Add to Cart</button>
             </div>
 
         </div>
